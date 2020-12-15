@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.1789cc2d20f5f3a1d20615d273cf673b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.93f6fa4428bd568ef8487527bcd4dca9.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.22e90ee45fe70453c4b345e7fd2ede4d.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.feef49151177c34517e21161c5af0e03.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.d2e72440ed67b0fe36d38f8c85d5b511.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.c85c9bf34e6852f19716d93e5f0fa563.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Halal Restaurant Indonesia",
+  "short_name": "Halal Resto",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Serving Halal and Delicious Foods and Drinks for Everyone\"",
+  "background_color": "#ffffff",
+  "theme_color": "#d84315"
+}
